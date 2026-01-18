@@ -1,0 +1,5 @@
+[build]
+  # The directory to publish (current directory for simple static sites)
+  publish = "."
+  # No build command is required for raw HTML/CSS/JS
+  command = ""
